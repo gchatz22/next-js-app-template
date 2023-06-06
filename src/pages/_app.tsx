@@ -1,4 +1,3 @@
-import '@/styles.css'
 import 'tailwindcss/tailwind.css'
 
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
