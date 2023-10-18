@@ -8,7 +8,7 @@ export default function Home() {
         <meta name="description" content="Some App" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
-      <div className="text-xl">you should use https://ui.shadcn.com/</div>
+      <div className="text-xl">hell world</div>
     </>
   )
 }
